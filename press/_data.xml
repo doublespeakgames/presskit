@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>doublespeak games</title>
+	<founding-date>June 1, 2013</founding-date>
+	<website>http://www.doublepeakgames.com/</website>
+	<based-in>Toronto, Canada</based-in>
+	
+	<press-contact>michael@doublespeakgames.com</press-contact>
+	<phone>(1) 647-668-7029</phone>
+	<address>
+		<line>1203-39 Niagara St</line>
+		<line>Toronto, Ontario</line>
+		<line>M5V 0T6</line>
+    <line>Canada</line>
+	</address>
+
+	<socials>
+		<social>
+			<name>Twitter</name>
+			<link>https://twitter.com/doublespeakgame</link>
+		</social>
+		<social>
+			<name>Facebook</name>
+			<link>https://www.facebook.com/doublespeakgames/</link>
+		</social>
+		<social>
+			<name>Instagram</name>
+			<link>https://www.instagram.com/doublespeakgames/</link>
+		</social>
+	</socials>
+
+	<description>	
+		doublespeak is a small independent game studio focused on open source, browser based experiences. Creators of A Dark Room and Gridland.
+	</description>
+		
+	<histories>
+		<history>
+			<header>Founding</header>
+			<text>In 2013, Michael Townsend made a weird browser game in his spare time. He called it A Dark Room, threw up a simple website, and doublespeak games was founded. It was an unexpected viral hit, getting wide attention across the internet. A post on HackerNews got the attention of Amir Rajan, who reached out to Townsend asking for permission to bring A Dark Room to iOS. Townsend agreed and, less than a year later, A Dark Room was charting #1 in the American App Store.</text>
+		</history>
+		<history>
+			<header>Purgatory</header>
+			<text>Despite the windfall from A Dark Room, doublespeak continued to be a side project for many years. In this time, the small one-man studio released a match-3 survival RPG called Gridland, its remastered mobile edition Super Gridland, and an abstract strategy game called Radüm. With more ambitious projects in mind, however, doublespeak began to strain against the limitation of being a hobby. In 2018, Townsend made a budget, held his breath, and left his professional career to focus on making games full-time.</text>
+		</history>
+    <history>
+			<header>Freedom</header>
+			<text>With newfound freedom, doublespeak began experimenting with different types of narrative-based games. Several concepts were prototyped, iterated on, and discarded before something stuck. In mid-2019, development began in earnest on what would be doublespeak's largest relase, a 50,000 word non-linear narrative game called Penrose. While work on Penrose was steady over the following year, doublespeak continued to experiment with narrative in gaming, releasing a voice-controlled adventure game for Google Assistant called A Flight of Fancy.</text>
+		</history>
+	</histories>
+	
+	<awards>
+		<award>
+			<description>Top 5 Anti-Games of 2013</description>
+			<info>Forbes, Daniel Nye Griffiths, 2013</info>
+		</award>
+		<award>
+			<description>Top 10 Games of 2013.</description>
+			<info>Giant Bomb, Zoe Quinn, 2013</info>
+		</award>
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>A Dark Room: The Best-Selling Game That No One Can Explain</description>
+			<name>Michael Thomsen</name>
+			<website>The New Yorker</website>
+			<link>https://www.newyorker.com/tech/annals-of-technology/a-dark-room-the-best-selling-game-that-no-one-can-explain</link>
+		</quote>
+		<quote>
+			<description>A Dark Room a breakthrough success on iTunes App Store</description>
+			<name>Paul Rocca</name>
+			<website>Humber News</website>
+			<link>https://humbernews.ca/2014/05/a-dark-room-a-breakthrough-success-on-itunes-app-store/</link>
+		</quote>
+		<quote>
+			<description>A Dark Room - Michael Townsend</description>
+			<name>Literate Gamer</name>
+			<website>Apple Podcasts</website>
+			<link>https://podcasts.apple.com/gb/podcast/a-dark-room-michael-townsend/id1135856210?i=1000377413341</link>
+		</quote>
+		<quote>
+			<description>Chance encounter in A Dark Room leads coders to pot of gold</description>
+			<name>Luke Dormefl</name>
+			<website>Cult of Mac</website>
+			<link>https://www.cultofmac.com/277035/dark-room-iphone-top-paid-game/</link>
+		</quote>
+	</quotes>
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	<additionals>
+		<additional>
+			<title>Michael Townsend on Instagram</title>
+			<description>Personal Instagram of Michael Townsend available at</description>
+			<link>https://www.instagram.com/continuous_michael</link>
+		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Michael Townsend</person>
+			<role>Designer and Lead Developer, doublespeak</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>michael@doublespeakgames.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/doublespeakgame</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>http://facebook.com/doublespeakgames</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>http://www.doublspeakgames.com</link>
+		</contact>
+	</contacts>
+</game>
