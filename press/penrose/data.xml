@@ -8,16 +8,16 @@
 
 	<platforms>
 		<platform>
-			<name>PC / Mac</name>
-			<link>http://www.gamesite.com/</link>
+			<name>Web</name>
+			<link>http://penrose.doublespeakgames.com/</link>
 		</platform>
 		<platform>
-			<name>Steam</name>
-			<link>http://www.steampowered.com/</link>
+			<name>Google Play</name>
+			<link>https://play.google.com/store/apps/details?id=com.doublespeakgames.penrose</link>
 		</platform>
 		<platform>
 			<name>Apple App Store</name>
-			<link>http://www.itunes.com/</link>
+			<link>https://apps.apple.com/us/app/id1516904436</link>
 		</platform>
 	</platforms>
 	
@@ -41,7 +41,7 @@
 	</prices>
 
 	<description>
-	Hello. This is a short compilation of facts about the game. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	Penrose is a non-linear narrative adventure game about time, choice, and the nature of obsession. Players navigate forward and backward through a generation-spanning story, making subtle changes that nudge events towards their inevitable conclusion. Featuring seven original compositions for violin by VANCORVID.
 	</description>
 	
 	<history>
@@ -49,11 +49,11 @@
 	</history>
 
 	<features>
-		<feature>Includes something really interesting about the game which players will love.</feature>
-		<feature>This feature line is about the 8-bit pixels that are no doubt featuring in this game.</feature>
-		<feature>Since it is unlikely that the audio isn't fucking amazing, say something about the audio, maybe?</feature>
-		<feature>Make sure to stress that everything about this game is absolutely fabulous.</feature>
-		<feature>Something to wrap up this 5-point feature list with a nice ring to it.</feature>
+		<feature>Traverse an intricate narrative, shaped by ripples of overlapping choice and consequence.</feature>
+		<feature>Solve puzzles by manipulating the environment, interpreting signs, and violating causality.</feature>
+		<feature>Haunting original score, composed and performed by VANCORVID</feature>
+		<feature>Play at your speed. Every choice is reversible.</feature>
+		<feature>Ensure that all will happen as it must.</feature>
 	</features>
 	
 	<trailers>
@@ -70,53 +70,23 @@
 	</trailers>
 	
 	<awards>
-		<award>
+		<!-- <award>
 			<description>Winner in this highly relevant contest.</description>
 			<info>Award Location, 20 October, 1989</info>
-		</award>
-		<award>
-			<description>Nomination for this prestigious award.</description>
-			<info>Award Ceremony, 4 December, 1991</info>
-		</award>
-		<award>
-			<description>Winner in this highly relevant contest.</description>
-			<info>Award Location, 20 October, 1989</info>
-		</award>
-		<award>
-			<description>Nomination for this prestigious award.</description>
-			<info>Award Ceremony, 4 December, 1991</info>
-		</award>
+		</award> -->
 	</awards>
 	
 	<quotes>
-		<quote>
+		<!-- <quote>
 			<description>This is a rather insignificant quote by a highly important person.</description>
 			<name>Person Name</name>
 			<website>Website</website>
 			<link>http://</link>
-		</quote>
-		<quote>
-			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
-			<name>Some Guy</name>
-			<website>This Page Is Visited By 12 Visitors A Month</website>
-			<link>http://</link>
-		</quote>
-		<quote>
-			<description>I pretend to love this game even though I do not actually understand it.</description>
-			<name>Pretentious Bastard</name>
-			<website>Artsy Page</website>
-			<link>http://</link>
-		</quote>
-		<quote>
-			<description>HOLY SHIT SO AMAZING</description>
-			<name>Caps Guy</name>
-			<website>Angry Review</website>
-			<link>http://</link>
-		</quote>
+		</quote> -->
 	</quotes>
 	
 	<additionals>
-		<additional>
+		<!-- <additional>
 			<title>Original Soundtrack</title>
 			<description>Available for free from</description>
 			<link>http://somemusicsite.com/thislink</link>
@@ -125,31 +95,33 @@
 			<title>Release Blog Post</title>
 			<description>The blog-post through which this game was released is available at</description>
 			<link>http://vlambeer.com/bloglink</link>
-		</additional>
+		</additional> -->
 	</additionals>
 	
 	<credits>
 		<credit>
-			<person>Rami Ismail</person>
-			<role>Business &amp; Development, Vlambeer</role>
+			<person>Michael Townsend</person>
+			<role>Design and development, doublespeak</role>
 		</credit>
 		<credit>
-			<person>Jan Willem Nijman</person>
-			<role>Game Designer, Vlambeer</role>
+			<person>Harjot Bal</person>
+			<role>Interface Design, Freelancer</role>
+      <website>https://harjot.io/</website>
 		</credit>
 		<credit>
-			<person>John Doe</person>
-			<role>Artist, Freelancer</role>
-		</credit>
-		<credit>
-			<person>Oliver Twist</person>
-			<website>www.olivertwist.com</website>
-			<role>Artist, Freelancer</role>
-		</credit>
-		<credit>
-			<person>Jane Doette</person>
-			<website>www.olivertwist.com</website>
+			<person>VANCORVID</person>
 			<role>Music, Freelancer</role>
+      <website>https://vancorvid.com/</website>
 		</credit>
+		<credit>
+			<person>Vince Nitro</person>
+      <role>SFX, Freelancer</role>
+      <website>https://vincenitro.bandcamp.com/</website>
+		</credit>
+		<credit>
+      <person>Magill Foote</person>
+      <role>Media and Branding, Freelancer</role>
+      <website>http://magillfoote.com/</website>
+    </credit>
 	</credits>
 </game>
