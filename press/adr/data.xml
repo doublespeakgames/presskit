@@ -43,13 +43,13 @@
 	</prices>
 
 	<description>
-	A Dark Room is a minimalist text adventure with unpredictable, expanding mechanics. From a single button, inviting players to light a fire, an entire world unfolds slowly. Players will be continually required to shift their strategies and perspectives as new layers of information and interactivity are revealed. Light the fire, and see what happens...
+	A Dark Room is a minimalist text adventure with unpredictable, expanding mechanics. From a single button, inviting players to light a fire, an entire world unfolds slowly. Players will be continually required to shift their strategies and perspectives as new layers of information and interactivity are revealed. Light the fire, and see where it takes you.
 	</description>
 	
   <histories>
     <history>
       <header>Development and intial release</header>
-      <text>In April of 2013, Michael Townsend played Candy Box!, by French developer aniwey. Fascinated by the minialist presentation and the dynamic and unpredictable way in which the game unfolded itself, Townsend began thinking about how Candy Box!'s aesthetic could be used in service of a broader narrative. Two months later, doublespeak games released A Dark Room for free on the web. It was an unexpected viral success, and got the attention of mobile developer, Amir Rajan...</text>
+      <text>In April of 2013, Michael Townsend played Candy Box!, by French developer aniwey. Fascinated by the minimalist presentation and the dynamic and unpredictable way in which the game unfolded itself, Townsend began thinking about how Candy Box!'s aesthetic could be used in service of a broader narrative. Two months later, doublespeak games released A Dark Room for free on the web. It was an unexpected viral success, and got the attention of mobile developer, Amir Rajan...</text>
     </history>
     <history>
       <header>Mobile success</header>
@@ -60,7 +60,7 @@
 	<features>
 		<feature>Varied and diverse gameplay, leaving players curious about what changes the next hour will bring.</feature>
 		<feature>Minimalist environmental storytelling reveals a unique and compelling world through exploration and play.</feature>
-		<feature>An interface that is, at once, both intuitive and atmospheric.</feature>
+		<feature>An interface that is simultaneously intuitive and atmospheric.</feature>
 		<feature>Free to play on the web.</feature>
 	</features>
 	
@@ -109,7 +109,7 @@
 		</credit>
     <credit>
       <person>Amir Rajan</person>
-      <role>Mobile development, Independant</role>
+      <role>Mobile development, Independent</role>
       <website>http://amirrajan.net/</website>
     </credit>
 		<credit>
