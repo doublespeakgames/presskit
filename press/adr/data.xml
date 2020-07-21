@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>A Dark Room</title>
+  <release-dates>
+	  <release-date>10 June, 2013</release-date>
+  </release-dates>
+	<website>http://adarkroom.doublespeakgames.com/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Web</name>
+			<link>http://adarkroom.doublespeakgames.com/</link>
+		</platform>
+		<platform>
+			<name>Google Play</name>
+			<link>https://play.google.com/store/apps/details?id=com.yourcompany.adarkroom</link>
+		</platform>
+		<platform>
+			<name>Apple App Store</name>
+			<link>https://apps.apple.com/us/app/a-dark-room/id736683061</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>$1.99</value>
+		</price>
+		<price>
+			<currency>EUR</currency>
+			<value>€1.59</value>
+		</price>
+		<price>
+			<currency>CAD</currency>
+			<value>$1.99</value>
+		</price>				
+		<price>
+			<currency>GBP</currency>
+			<value>£1.29</value>
+		</price>
+	</prices>
+
+	<description>
+	A Dark Room is a minimalist text adventure with unpredictable, expanding mechanics. From a single button, inviting players to light a fire, an entire world unfolds slowly. Players will be continually required to shift their strategies and perspectives as new layers of information and interactivity are revealed. Light the fire, and see what happens...
+	</description>
+	
+  <histories>
+    <history>
+      <header>Development and intial release</header>
+      <text>In April of 2013, Michael Townsend played Candy Box!, by French developer aniwey. Fascinated by the minialist presentation and the dynamic and unpredictable way in which the game unfolded itself, Townsend began thinking about how Candy Box!'s aesthetic could be used in service of a broader narrative. Two months later, doublespeak games released A Dark Room for free on the web. It was an unexpected viral success, and got the attention of mobile developer, Amir Rajan...</text>
+    </history>
+    <history>
+      <header>Mobile success</header>
+      <text>Rajan contacted Townsend after reading an article about A Dark Room on HackerNews. The Texas-based developer wanted to port A Dark Room to iOS as an experimental project, and Townsend agreed. By November of that year, A Dark Room was live on the App Store. Six months later, it was charting #1 and the two developers suddenly found themselves with a viable future in game development. While doublespeak moved on to new projects, Rajan continued to develop the A Dark Room brand, porting the game to other platforms and releasing a prequel called The Ensign.</text>
+    </history>
+  </histories>
+
+	<features>
+		<feature>Varied and diverse gameplay, leaving players curious about what changes the next hour will bring.</feature>
+		<feature>Minimalist environmental storytelling reveals a unique and compelling world through exploration and play.</feature>
+		<feature>An interface that is, at once, both intuitive and atmospheric.</feature>
+		<feature>Free to play on the web.</feature>
+	</features>
+	
+	<awards>
+		<award>
+			<description>Top 5 Anti-Games of 2013</description>
+			<info>Forbes, Daniel Nye Griffiths, 2013</info>
+		</award>
+		<award>
+			<description>Top 10 Games of 2013.</description>
+			<info>Giant Bomb, Zoe Quinn, 2013</info>
+		</award>
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>A Dark Room: The Best-Selling Game That No One Can Explain</description>
+			<name>Michael Thomsen</name>
+			<website>The New Yorker</website>
+			<link>https://www.newyorker.com/tech/annals-of-technology/a-dark-room-the-best-selling-game-that-no-one-can-explain</link>
+		</quote>
+		<quote>
+			<description>The Simple, Text-Based iPhone Game That Will Make You Question Your Own Humanity</description>
+			<name>Will Oremus</name>
+			<website>Slate</website>
+			<link>https://slate.com/technology/2014/05/a-dark-room-the-cormac-mccarthy-of-text-based-iphone-games.html</link>
+		</quote>
+		<quote>
+			<description>‘A Dark Room’ Review – Surprising Things Can Be Found In The Dark</description>
+			<name>Shaun Musgrave</name>
+			<website>toucharcade</website>
+			<link>https://toucharcade.com/2014/06/03/a-dark-room-review/</link>
+		</quote>
+		<quote>
+			<description>Have You Played... A Dark Room?</description>
+			<name>Adam Smith</name>
+			<website>Rock Paper Shotgun</website>
+			<link>https://www.rockpapershotgun.com/2014/10/23/have-you-played-a-dark-room/</link>
+		</quote>
+	</quotes>
+	
+	<credits>
+		<credit>
+			<person>Michael Townsend</person>
+			<role>Design and development, doublespeak</role>
+		</credit>
+    <credit>
+      <person>Amir Rajan</person>
+      <role>Mobile development, Independant</role>
+      <website>http://amirrajan.net/</website>
+    </credit>
+		<credit>
+      <person>Magill Foote</person>
+      <role>Media and Branding, Freelancer</role>
+      <website>http://magillfoote.com/</website>
+    </credit>
+	</credits>
+</game>

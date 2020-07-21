@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- example file containing base tags -->
-
-<game>	
+<company>	
 	<title>doublespeak games</title>
 	<founding-date>June 1, 2013</founding-date>
 	<website>http://www.doublepeakgames.com/</website>
@@ -141,4 +139,4 @@
 			<link>http://www.doublspeakgames.com</link>
 		</contact>
 	</contacts>
-</game>
+</company>

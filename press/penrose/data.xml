@@ -2,8 +2,10 @@
 
 <game>
 	<title>Penrose</title>
-	<release-date>1 May, 2012</release-date>
-	<website>http://www.gamesite.com/</website>
+  <release-dates>
+	  <release-date>1 September, 2020</release-date>
+  </release-dates>
+	<website>http://penrose.doublespeakgames.com/</website>
 	<press-can-request-copy>TRUE</press-can-request-copy>
 
 	<platforms>
@@ -44,9 +46,20 @@
 	Penrose is a non-linear narrative adventure game about time, choice, and the nature of obsession. Players navigate forward and backward through a generation-spanning story, making subtle changes that nudge events towards their inevitable conclusion. Featuring seven original compositions for violin by VANCORVID.
 	</description>
 	
-	<history>
-	Since we're an indie developer, we want a history to our game. This paragraph will explain this history in short. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-	</history>
+  <histories>
+    <history>
+      <header>Conception</header>
+      <text>Penrose was originally conceived by Michael Townsend in early 2018, while thinking about ways to merge pure narrative with interactivity. Three pages were written, and the first puzzle designed, before he hit a wall, not knowing where to take the concept. Penrose would be shelved for a year while doublespeak experimented with other concepts, but the idea proved to be quite tenacious...</text>
+    </history>
+    <history>
+      <header>Reinvigoration</header>
+      <text>Riding a creative high after the completion of A Flight of Fancy, doublespeak began searching for another narrative-focused project to dive into. Curious, Townsend returned to those first few pages of what would become Penrose, and found the previous creative blocks had vanished. In the spring of 2019, doublespeak committed entirely to the development of Penrose, and work began in earnest. By the summer of that year, the technical groundwork was laid and the focus turned to writing. Countless hours were spent in coffee shops and libraries, as Townsend scripted the largest single work of writing he had ever attempted. One year later the writing was complete and, while running closed playtesting, a chance meeting with recording artist VANCORVID would shape the musical direction of the project.</text>
+    </history>
+    <history>
+      <header>Release</header>
+      <text>Timeline for the completion of the musical score in hand, a release date for the project was in sight; Penrose would be released in early September of 2020. Fingers crossed...</text>
+    </history>
+  </histories>
 
 	<features>
 		<feature>Traverse an intricate narrative, shaped by ripples of overlapping choice and consequence.</feature>
@@ -56,7 +69,7 @@
 		<feature>Ensure that all will happen as it must.</feature>
 	</features>
 	
-	<trailers>
+	<!-- <trailers>
 		<trailer>
 			<name>Trailer</name>
 			<youtube>7jQbITg0MSk</youtube>
@@ -67,26 +80,26 @@
 			<youtube>7jQbITg0MSk</youtube>
 			<vimeo>23571681</vimeo>
 		</trailer>
-	</trailers>
+	</trailers> -->
 	
-	<awards>
-		<!-- <award>
+	<!-- <awards>
+		<award>
 			<description>Winner in this highly relevant contest.</description>
 			<info>Award Location, 20 October, 1989</info>
-		</award> -->
-	</awards>
+		</award>
+	</awards> -->
 	
-	<quotes>
-		<!-- <quote>
+	<!-- <quotes>
+		<quote>
 			<description>This is a rather insignificant quote by a highly important person.</description>
 			<name>Person Name</name>
 			<website>Website</website>
 			<link>http://</link>
-		</quote> -->
-	</quotes>
+		</quote>
+	</quotes> -->
 	
-	<additionals>
-		<!-- <additional>
+	<!-- <additionals>
+		<additional>
 			<title>Original Soundtrack</title>
 			<description>Available for free from</description>
 			<link>http://somemusicsite.com/thislink</link>
@@ -95,8 +108,8 @@
 			<title>Release Blog Post</title>
 			<description>The blog-post through which this game was released is available at</description>
 			<link>http://vlambeer.com/bloglink</link>
-		</additional> -->
-	</additionals>
+		</additional>
+	</additionals> -->
 	
 	<credits>
 		<credit>
