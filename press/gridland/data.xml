@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Gridland</title>
+  <release-dates>
+	  <release-date>25 August, 2014</release-date>
+  </release-dates>
+	<website>http://gridland.doublespeakgames.com/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Web</name>
+			<link>http://gridland.doublespeakgames.com/</link>
+		</platform>
+		<platform>
+			<name>Google Play</name>
+			<link>https://play.google.com/store/apps/details?id=com.doublespeakgames.gridland</link>
+		</platform>
+		<platform>
+			<name>Apple App Store</name>
+			<link>https://apps.apple.com/us/app/super-gridland/id1158436270</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>$1.99</value>
+		</price>
+		<price>
+			<currency>EUR</currency>
+			<value>€1.59</value>
+		</price>
+		<price>
+			<currency>CAD</currency>
+			<value>$1.99</value>
+		</price>				
+		<price>
+			<currency>GBP</currency>
+			<value>£1.29</value>
+		</price>
+	</prices>
+
+	<description>
+	
+	</description>
+	
+  <histories>
+    <history>
+      <header>Development and intial release</header>
+      <text></text>
+    </history>
+  </histories>
+
+	<features>
+		<feature>Addictive match-3 gameplay merged with survival RPG mechanics.</feature>
+		<feature>Day/night cycle, requiring players to shift their strategies.</feature>
+		<feature>Charming pixel art and chiptune soundtrack</feature>
+		<feature>Free to play on the web.</feature>
+	</features>
+
+  <trailers>
+		<trailer>
+			<name>Gridland Trailer</name>
+			<youtube>xZhdFcoI0Rw</youtube>
+      <vimeo>104190685</vimeo>
+		</trailer>
+		<trailer>
+			<name>Super Gridland Trailer</name>
+			<youtube>Xlj0HKBXoT4</youtube>
+		</trailer>
+	</trailers>
+	
+	<quotes>
+		<quote>
+			<description>They Only Come Out At Night: Gridland</description>
+			<name>Adam Smith</name>
+			<website>Rock Paper Shotgun</website>
+			<link>https://www.rockpapershotgun.com/2014/08/28/free-browser-game-match-3-gridland/</link>
+		</quote>
+		<quote>
+			<description>Super Gridland is an RPG-puzzle hybrid that’s far deeper than it looks</description>
+			<name>Nick Statt</name>
+			<website>The Verge</website>
+			<link>https://www.theverge.com/2017/1/28/14406146/super-gridland-rpg-puzzle-mobile-game-hybrid-michael-townsend</link>
+		</quote>
+		<quote>
+			<description>Gridland and the fight against the lizard brain</description>
+			<name>Nick Barr</name>
+			<website>The Strange Games Review</website>
+			<link>https://medium.com/the-strange-games-review/gridland-and-the-fight-against-the-lizard-brain-b08814c341fa</link>
+		</quote>
+	</quotes>
+	
+	<credits>
+		<credit>
+			<person>Michael Townsend</person>
+			<role>Design, Development, Art, Sound, doublespeak</role>
+		</credit>
+    <credit>
+      <person>Vince Nitro</person>
+      <role>Music, Freelancer</role>
+      <website>https://vincenitro.bandcamp.com/</website>
+    </credit>
+    <credit>
+      <person>Magill Foote</person>
+      <role>Media and Branding, Freelancer</role>
+      <website>http://magillfoote.com/</website>
+    </credit>
+    <credit>
+      <person>Taylor Schaerer</person>
+      <role>Art, Freelancer</role>
+    </credit>
+    <credit>
+      <person>Michael Barry-Mancuso</person>
+      <role>Music, Freelancer</role>
+    </credit>
+    <credit>
+      <person>Sergio Alapont</person>
+      <role>Unity Programming, BraveZebra</role>
+      <website>http://bravezebra.com/</website>
+    </credit>
+    <credit>
+      <person>Rubén Picó</person>
+      <role>Unity Programming, BraveZebra</role>
+      <website>http://bravezebra.com/</website>
+    </credit>
+	</credits>
+</game>
