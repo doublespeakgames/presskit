@@ -16,12 +16,17 @@
 	</platforms>
 
 	<description>
-  A Flight of Fancy is an interactive spoken-word adventure for Google Assistant, inspired by classic text and point-and-click adventure games. Players converse with their devices, navigating a surreal world of fantasy and wonder. Explore unique environments, solve puzzles, and unravel the mystery.
+  Ever spoken to your phone, which talked back to you, and then you went on an adventure? With tiny goblins? A Flight of Fancy is an interactive spoken-word adventure for Google Assistant, inspired by classic text and point-and-click adventure games. Players converse with their devices, navigating a surreal world of fantasy and wonder. Explore unique environments, solve puzzles, and unravel the mystery.
 	</description>
 	
   <histories>
     <history>
-      <text>In early 2019, doublespeak was focusing full-time on the development of their next game, intended to be the studio's first huge release. Months in and passion flagging, Townsend decided to take a break on a fun side-project. Interested in the potential for interactive narrative on voice assistants, but with no plan in mind, he began improvising with Google's natural language tools. Over the span of several weeks, the design and narrative of A Flight of Fancy grew organically. Voice control proved to be an extremely difficult medium, and it would be months of extensive playtesting before the language model was robust enough for public release. In May of 2019, A Flight of Fancy was released on Google Assistant.</text>
+      <header>Development</header>
+      <text>A Flight of Fancy was initially just that - a fun side project to distract from the pressure of a major work in progress. In early 2019, doublespeak was focusing full-time on the development of their next game, intended to be the studio's first huge release. Doublespeak lead Michael Townsend decided to take a break. Interested in the potential for interactive narrative on voice assistants, but with no plan in mind, he began improvising with Google's natural language tools. Over the span of several weeks, the design and narrative of A Flight of Fancy grew organically. Voice control was a new and challenging medium, and it would be months of extensive playtesting before the language model was robust enough for public release.</text>
+    </history>
+    <history>
+      <header>Release</header>
+      <text>In May of 2019, A Flight of Fancy was released on Google Assistant and proved to be a major turning point. In comparison to the creative energy of A Flight of Fancy, doublespeak's main project felt cumbersome. Eager to preserve momentum, the studio switched priorities and returned to an old concept that would become the focus of 2020.</text>
     </history>
   </histories>
 

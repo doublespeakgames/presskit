@@ -43,13 +43,13 @@
 	</prices>
 
 	<description>
-	A Dark Room is a minimalist text adventure with unpredictable, expanding mechanics. From a single button, inviting players to light a fire, an entire world unfolds slowly. Players will be continually required to shift their strategies and perspectives as new layers of information and interactivity are revealed. Light the fire, and see where it takes you.
+	A Dark Room is a minimalist text adventure with unpredictable, expanding mechanics. An entire world unfolds slowly from a single button, inviting players to light a fire. Players are challenged to shift their strategies and perspectives as new layers of information and interactivity are revealed. Light the fire, and see where it takes you.
 	</description>
 	
   <histories>
     <history>
       <header>Development and intial release</header>
-      <text>In April of 2013, Michael Townsend played Candy Box!, by French developer aniwey. Fascinated by the minimalist presentation and the dynamic and unpredictable way in which the game unfolded itself, Townsend began thinking about how Candy Box!'s aesthetic could be used in service of a broader narrative. Two months later, doublespeak games released A Dark Room for free on the web. It was an unexpected viral success, and got the attention of mobile developer, Amir Rajan...</text>
+      <text>In April 2013, Michael Townsend played Candy Box!, by French developer aniwey. Fascinated by Candy Box!'s minimalist presentation, as well as its dynamic and unpredictable emergent gameplay, Townsend began thinking about how that aesthetic could be used in service of a broader narrative. Two months later, doublespeak games released A Dark Room for free on the web. It was an unexpected viral success, and got the attention of mobile developer, Amir Rajan.</text>
     </history>
     <history>
       <header>Mobile success</header>
