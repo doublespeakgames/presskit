@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Radüm</title>
+  <release-dates>
+	  <release-date>28 January, 2016</release-date>
+  </release-dates>
+	<website>http://radum.doublespeakgames.com/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Web</name>
+			<link>http://radum.doublespeakgames.com/</link>
+		</platform>
+	</platforms>
+
+	<description>
+	Radüm is an abstract pass-and-play strategy game about distance and prediction. Players take turns secretly placing pieces on the board and scoring points based on their relative positions. As the board fills up, each play becomes more dangerous, until the likelihood of a catastrophic mistake becomes nearly certain. Within a soothing soundtrack and abstract pastel aesthetic hides a devilish game of guess and second-guess.
+	</description>
+	
+  <histories>
+    <history>
+      <text>With Gridland released, doublespeak and friends were hard at work on Super Gridland. Townsend, however, became bored by the rote technical work and his mind began to wander. With vague images of expanding circles and soft palettes in mind, he started poking at mechanical concepts for a bite-sized diversion. This would be doublespeak's most experimental project to date, and design was highly iterative; extensive tweaking and playtesting eventually solidified into Radüm, and it was released on the web in January of 2016.</text>
+    </history>
+  </histories>
+
+	<features>
+		<feature>Pass-and-play strategy for two.</feature>
+		<feature>A soothing ambient soundtrack and a wide variety of vibrant colourschemes.</feature>
+		<feature>Predict your opponent's strategy and lay devious traps.</feature>
+		<feature>VS AI and tournament play</feature>
+		<feature>Free to play on the web</feature>
+	</features>
+	
+	<credits>
+		<credit>
+			<person>Michael Townsend</person>
+			<role>Design and development, doublespeak</role>
+		</credit>
+		<credit>
+			<person>Andrew Thomas</person>
+			<role>Music and Sound, Freelancer</role>
+		</credit>
+		<credit>
+			<person>Radiant Design</person>
+			<role>Theming</role>
+      <website>http://www.radiantdesignstudio.com/</website>
+		</credit>
+	</credits>
+</game>

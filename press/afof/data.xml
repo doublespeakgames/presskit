@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>A Flight of Fancy</title>
+  <release-dates>
+	  <release-date>9 May, 2019</release-date>
+  </release-dates>
+	<website>http://www.doublespeakgames.com/flight-of-fancy.html</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Google Assistant</name>
+			<link>https://assistant.google.com/services/a/uid/000000d4a7fab5ca</link>
+		</platform>
+	</platforms>
+
+	<description>
+  A Flight of Fancy is an interactive spoken-word adventure for Google Assistant, inspired by classic text and point-and-click adventure games. Players converse with their devices, navigating a surreal world of fantasy and wonder. Explore unique environments, solve puzzles, and unravel the mystery.
+	</description>
+	
+  <histories>
+    <history>
+      <text>In early 2019, doublespeak was focusing full-time on the development of their next game, intended to be the studio's first huge release. Months in and passion flagging, Townsend decided to take a break on a fun side-project. Interested in the potential for interactive narrative on voice assistants, but with no plan in mind, he began improvising with Google's natural language tools. Over the span of several weeks, the design and narrative of A Flight of Fancy grew organically. Voice control proved to be an extremely difficult medium, and it would be months of extensive playtesting before the language model was robust enough for public release. In May of 2019, A Flight of Fancy was released on Google Assistant.</text>
+    </history>
+  </histories>
+
+	<features>
+		<feature>A spoken-word adventure, handcrafted by doublespeak games.</feature>
+		<feature>Classic puzzle-solving mechanics in a unique world.</feature>
+		<feature>Engage naturally, through the power of natural language processing.</feature>
+		<feature>Tiny goblins!</feature>
+		<feature>Free to play on any Assistant-compatible device.</feature>
+	</features>
+	
+	<credits>
+		<credit>
+			<person>Michael Townsend</person>
+			<role>Design and development, doublespeak</role>
+		</credit>
+		<credit>
+      <person>Magill Foote</person>
+      <role>Media and Branding, Freelancer</role>
+      <website>http://magillfoote.com/</website>
+    </credit>
+	</credits>
+</game>

@@ -43,13 +43,17 @@
 	</prices>
 
 	<description>
-	
+	Gridland is a match-3 survival RPG about building a town and defending it from the things that lurk at night. In the day, players match tiles to gather resources and construct buildings to unlock new tiles and abilities. But beware, because when night falls the tiles summon hordes of monsters intent on tearing down what has been built.
 	</description>
 	
   <histories>
     <history>
-      <header>Development and intial release</header>
-      <text></text>
+      <header>Gridland</header>
+      <text>Fresh off the success of A Dark Room, doublespeak immediately began searching for another big idea. Since A Dark Room was presented entirely in text, the next game would feature no text at all. The concept of merging match-3 gameplay with a day/night cycle came quickly and, several iterations later, the core loop of Gridland emerged. Excitedly, Townsend animated a monochrome stick figure clamboring onto the tile grid and work began in earnest. Still a hobby project, it would be a year before Gridland was released on the web. It was immediately successful, and players began asking for a version that they could take with them on their devices.</text>
+    </history>
+    <history>
+      <header>Super Gridland</header>
+      <text>Eager to deliver a mobile version of Gridland, doublespeak investigated multiple technologies for bringing the web-based game to mobile. After months of fruitless experimentation, the decision was made to port the original mechanics to Unity. New art and music would be developed, taking Gridland's 8-bit aesthetic into 16-bit, and Super Gridland was born. Not having any in-house experience with Unity, doublespeak reached out to the community looking for developers. In January of 2017, after countless hours of work from multiple partners, Super Gridland was released on Android and iOS.</text>
     </history>
   </histories>
 
