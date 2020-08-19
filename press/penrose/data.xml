@@ -69,18 +69,12 @@
 		<feature>Ensure that all will happen as it must.</feature>
 	</features>
 	
-	<!-- <trailers>
+	<trailers>
 		<trailer>
-			<name>Trailer</name>
-			<youtube>7jQbITg0MSk</youtube>
-			<vimeo>23571681</vimeo>
+			<name>Announcement Trailer</name>
+			<youtube>fVwrBN4yjOU</youtube>
 		</trailer>
-		<trailer>
-			<name>Gameplay Video</name>
-			<youtube>7jQbITg0MSk</youtube>
-			<vimeo>23571681</vimeo>
-		</trailer>
-	</trailers> -->
+	</trailers>
 	
 	<!-- <awards>
 		<award>
