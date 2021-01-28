@@ -70,40 +70,45 @@
 	</features>
 	
 	<trailers>
+    <trailer>
+      <name>Release Trailer</name>
+      <youtube>UOZvr8kYK30</youtube>
+    </trailer>
 		<trailer>
 			<name>Announcement Trailer</name>
 			<youtube>fVwrBN4yjOU</youtube>
 		</trailer>
 	</trailers>
 	
-	<!-- <awards>
+	<awards>
 		<award>
-			<description>Winner in this highly relevant contest.</description>
-			<info>Award Location, 20 October, 1989</info>
+			<description>TouchArcade Game of the Week</description>
+			<info>4 September, 2020</info>
 		</award>
-	</awards> -->
+	</awards>
 	
-	<!-- <quotes>
+	<quotes>
 		<quote>
-			<description>This is a rather insignificant quote by a highly important person.</description>
-			<name>Person Name</name>
-			<website>Website</website>
-			<link>http://</link>
+			<description>The whole thing is just fascinating, and I’ve never been more excited to read and then RE-read the same bits of a story before.</description>
+			<name>Jared Nelson</name>
+			<website>TouchArcade</website>
+			<link>https://toucharcade.com/2020/09/04/toucharcade-game-of-the-week-penrose/</link>
 		</quote>
-	</quotes> -->
+    <quote>
+			<description>A mysterious, compelling interactive story</description>
+			<name>Andy Price</name>
+			<website>TapSmart</website>
+			<link>https://www.tapsmart.com/games/penrose-review/</link>
+		</quote>
+	</quotes>
 	
-	<!-- <additionals>
+	<additionals>
 		<additional>
 			<title>Original Soundtrack</title>
-			<description>Available for free from</description>
-			<link>http://somemusicsite.com/thislink</link>
+			<description>Available from</description>
+			<link>https://vancorvid.bandcamp.com/album/penrose-original-soundtrack</link>
 		</additional>
-		<additional>
-			<title>Release Blog Post</title>
-			<description>The blog-post through which this game was released is available at</description>
-			<link>http://vlambeer.com/bloglink</link>
-		</additional>
-	</additionals> -->
+	</additionals>
 	
 	<credits>
 		<credit>
